@@ -1,0 +1,41 @@
+header {tex-align: center;
+}
+body {
+  background-color: #FFDD33;
+  font-family:arial;
+  padding-left: 50px;
+  margin: 50px;
+}
+
+h1 {
+font-size: 4em;
+font-style: oblique;
+}
+
+h2 {
+  font-size: 2em;
+}
+#ecstasy {
+  color: red;
+}
+
+figcaption {
+
+  font-family: monospace;
+  font-size: 1.5em;
+}
+a {
+  text-decoration: none;
+}
+.fine {
+  width: 800px;
+}
+.pop {
+  height: 500px;
+}
+li {
+  font-family: monospace;
+  display: inline;
+  padding: 15px;
+  font-size: 2em;
+}
